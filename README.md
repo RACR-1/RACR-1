@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to Future
 - 📫 (How to reach me) => {
-
+      Discord: RACR#0079
+      Linkedin: /in/rodrigo-acr-197965218 | rodrigo acr
 }
 
