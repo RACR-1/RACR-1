@@ -10,6 +10,7 @@
 Project Links { 
 
   https://racr-1.github.io/Pokemon-js/
+  https://racr-1.github.io/Pokedex-Api-with-Blob-Links-Roger-Melo/
 
 
   }
