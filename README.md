@@ -7,3 +7,9 @@
 -     Linkedin: /in/rodrigo-acr-197965218 | rodrigo acr
 }
 
+Project Links { 
+
+  https://racr-1.github.io/Pokemon-js/
+
+
+  }
